@@ -1,5 +1,10 @@
 # Merhaba GitHub
 Bu repo GitHub'ı öğrenirken oluşturduğum ilk depo
+
+
+![Gitarcı adam foto](bf32f9fef45b2f7f27e15e2884b27c06.jpg)
+
+
 ## Hakkımda
 - **Bölüm:** Endüstri Mühendisliği
 - **En Çok Merak Ettiğim Konu:** Mutlu Olabilecek Miyim?
