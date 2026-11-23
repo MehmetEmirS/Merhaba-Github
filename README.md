@@ -13,3 +13,7 @@ Bu repo GitHub'ı öğrenirken oluşturduğum ilk depo
 
 ## HOBİLERİM
 -Gitar Çalma
+
+## KAYNAK
+- Kodlama Öğrenmek için güzel kaynaklar:
+- [CodinGame]("https://www.codingame.com")
