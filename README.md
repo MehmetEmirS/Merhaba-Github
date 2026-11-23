@@ -13,3 +13,7 @@ Bu repo GitHub'ı öğrenirken oluşturduğum ilk depo
 
 ## HOBİLERİM
 -Gitar Çalma
+
+## Arkadaşımın Tavsiyesi
+**Kaynak** Harry Potter
+**Neden Öneriyorum** Etkileyici
