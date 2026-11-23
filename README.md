@@ -17,3 +17,6 @@ Bu repo GitHub'ı öğrenirken oluşturduğum ilk depo
 ## Arkadaşımın Tavsiyesi
 **Kaynak** Harry Potter
 **Neden Öneriyorum** Etkileyici
+
+**Öneri 2:** Sekiro
+**Neden Öneriyorum** Vuruş Hissi
