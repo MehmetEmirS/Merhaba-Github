@@ -10,3 +10,6 @@ Bu repo GitHub'ı öğrenirken oluşturduğum ilk depo
 - **En Çok Merak Ettiğim Konu:** Mutlu Olabilecek Miyim?
 - ## Bu depoda neler var ?
 - [İlk Programım] (kodlar/merhaba.py)
+
+## HOBİLERİM
+-Gitar Çalma
